@@ -68,12 +68,28 @@ andre = {
 
 ---
 
+## 📄 Publicações Científicas
+
+<div align="center">
+
+| 📰 Artigo | 🏛️ Evento | 📅 |
+|---|---|---|
+| [**Plugin QGIS – Hidrograma Unitário SCS**](https://github.com/waltermlp/SCS) | XXVI Simpósio Brasileiro de Recursos Hídricos – ABRH (ISSN 2318-0358) | 2025 |
+| [**Plugin QGIS – Método Racional**](https://github.com/waltermlp/MetodoRacional) | XXVI Simpósio Brasileiro de Recursos Hídricos – ABRH (ISSN 2318-0358) | 2025 |
+
+</div>
+
+> 🔬 Trabalhos desenvolvidos no contexto do edital **FAPERJ nº 04/2024**, em parceria entre a **Azevedo Consultoria Ambiental e Energética** e a **Nascente Soluções Ambientais**. Plugins Python para QGIS que automatizam o cálculo de vazões de projeto por modelagem hidrológica e geoprocessamento.
+
+---
+
 ## 🚀 Projetos em Destaque
 
 <div align="center">
 
 | 🔬 Projeto | 📋 Descrição | 🏷️ Stack |
 |---|---|---|
+| [**🌍 TerraSync App**](https://www.linkedin.com/company/terrasync-app/) | Startup de tecnologia ambiental — participação na prototipagem do script de análise de dados | `Python` `GIS` `Data Analysis` |
 | [**🌿 Biodiversity Explorer**](https://github.com/ferather-An/Explorador_biodiversidade) | App modular com CLI + GUI para consulta de dados de biodiversidade via GBIF, iNaturalist, SpeciesLink e WikiAves | `Python` `PyQt5` `APIs REST` |
 | [**🚗 Contador de Veículos**](https://github.com/ferather-An/Contador-de-ve-culos-Quantitativo) | Visão computacional para contagem de veículos em tempo real com redes neurais | `Python` `TensorFlow` `CV` |
 | [**💧 Previsão de Vazão**](https://github.com/ferather-An/Previsao-de-vaz-o) | Modelo preditivo para séries históricas de vazões hídricas aplicado à gestão ambiental | `Python` `scikit-learn` `ML` |
